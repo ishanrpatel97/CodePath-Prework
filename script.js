@@ -2,7 +2,7 @@
 
 var tonePlaying = false;
 var volume = 0.5;  //must be between 0.0 and 1.0
-var pattern = [2, 6, 4, 5, 2, 1, 2, 4, 5, 6, 4];
+var pattern = [2, 6, 4, 5, 3, 1, 2, 4];
 var progress = 0; 
 var gamePlaying = false;
 var guessCounter = 0;

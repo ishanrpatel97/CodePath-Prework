@@ -40,9 +40,9 @@ List anything else that you can get done to improve the app!
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](https://github.com/CodePath-Prework/StartStopButton)
-![](https://github.com/CodePath-Prework/MemoryGameplay)
-![](https://github.com/CodePath-Prework/WinLoseGameAlerts)
+![](StartStopButton.gif)
+![](MemoryGameplay.gif)
+![](WinLoseGameAlerts.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 

@@ -7,9 +7,9 @@ var progress = 0;
 var gamePlaying = false;
 var guessCounter = 0;
 
-const clueHoldTime = 1000;
-const cluePauseTime = 333; 
-const nextClueWaitTime = 1000;
+const clueHoldTime = 750;
+const cluePauseTime = 233; 
+const nextClueWaitTime = 650;
 
 function startGame() {
 //initialize game variables
@@ -28,12 +28,12 @@ function stopGame() {
 
 // Sound Synthesis Functions
 const freqMap = {
-  1: 261.6,
-  2: 329.6,
-  3: 392,
-  4: 466.2,
-  5: 523.4,
-  6: 800
+  1: 249.6,
+  2: 316.6,
+  3: 375,
+  4: 425.2,
+  5: 500.4,
+  6: 700
 }
 
 function playTone(btn,len){ 

@@ -40,13 +40,13 @@ List anything else that you can get done to improve the app!
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](StartStopButton.gif)
-![](MemoryGameplay.gif)
-![](WinLoseGameAlerts.gif)
+![](https://i.imgur.com/nt4HTLy.gifv)
+![](https://i.imgur.com/VDogyQ9.gifv)
+![](https://i.imgur.com/O4o9Dkq.gifv)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[I currently am enrolled in a Web Development course at the University of Maryland College Park which is where I derived most of the skills necessary to complete the prework project. Resources I used to get png files for the buttons are from(https://www.fg-a.com/buttons2.htm). ]
+[YOUR ANSWER HERE]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 [YOUR ANSWER HERE]

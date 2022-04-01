@@ -34,8 +34,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ Created a ridge border around all the game buttons. I also added a double border around the Start/Stop button. I also used the underlined tag for the heading and added a margin to the heading tag, paragraph tag, and the Start/Stop button. Additionally, I added a black outer border and red inner border around the body of the HTML document to change the appearance of the application.] 
-List anything else that you can get done to improve the app!
+- [ Created a ridge border around all the game buttons and added a double border around the Start/Stop button. Another style feature I used was the underlined tag for the heading and added a margin to the heading tag, paragraph tag, and the Start/Stop button so that they dont appear to be nearly overlapping with the inner border. Additionally, I added a black outer border and red inner border around the body of the HTML document to change the appearance of the application.] 
 
 ## Video Walkthrough (GIF)
 
@@ -43,9 +42,6 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](StartStopButton.gif)
 ![](MemoryGameplay.gif)
 ![](WinLoseGameAlerts.gif)
-<!-- ![](https://i.imgur.com/nt4HTLy.gifv)
-![](https://i.imgur.com/VDogyQ9.gifv)
-![](https://i.imgur.com/O4o9Dkq.gifv) -->
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
